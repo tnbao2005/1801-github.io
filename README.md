@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cat-Themed Invitation</title>
+    <title>Chúc Mừng Sinh Nhật Em</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -51,15 +51,15 @@
 <body>
 
     <div id="invitation">
-        <h1>Cat-Themed Invitation</h1>
-        <p>Dear [Girlfriend's Name],</p>
-        <p>I have a special plan for us on December 24th, and I would be delighted if you could join me. It's going to be a purr-fectly delightful evening filled with love, joy, and surprises!</p>
+        <h1>Chúc Mừng Sinh Nhật Em</h1>
+        <p>Lan Hương :3,</p>
+        <p>Anh xin lỗi vì lần nữa không bên em vào những dịp đặc biệt này... Anh không biết nói gì hơn ngoài chúc em tuổi mới đầy hạnh phúc và niềm vui, anh biết thời gian qua tụi mình sóng gió cũng nhiều nhưng cũng đã vượt qua nên anh mong tụi mình có thể vượt qua nhiều thứ nữa.</p>
         <div id="cat-gif"></div>
-        <p>Are you ready for an unforgettable experience?</p>
-        <a id="cta-button" href="#">RSVP Now</a>
-        <p>Looking forward to our time together!</p>
+        <p>Thank You For Everything and Happy Birthday!</p>
+        <a id="cta-button" href="#">I LOVE YOU <3</a>
+        <p>It took me a while to send you this, I'm sorry.</p>
         <p>With love,</p>
-        <p>[Your Name]</p>
+        <p>Anh, B.</p>
     </div>
 
     <script>
