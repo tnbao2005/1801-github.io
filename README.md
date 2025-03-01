@@ -64,7 +64,7 @@
 
     <script>
         // Fetch a random cat GIF from Giphy
-        fetch('https://api.giphy.com/v1/gifs/random?api_key=[Your Giphy API Key]&tag=cat')
+        fetch('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV5dGlvNG9reGJubjQ0M3FzaGZjNTE3YXZ4aW84YTIyNmh4djE4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif')
             .then(response => response.json())
             .then(data => {
                 const catGifUrl = data.data.image_url;
